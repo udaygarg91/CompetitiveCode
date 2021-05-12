@@ -1,3 +1,5 @@
+//https://cses.fi/problemset/task/1620/ Factory Machines of making chocolates
+
 package main.program;
 import java.util.Scanner;
 
