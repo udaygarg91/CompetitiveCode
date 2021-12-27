@@ -1,5 +1,3 @@
-//https://leetcode.com/problems/sliding-window-maximum/submissions/ MaxInSlidingWndwDeque.java sliding-window-maximum java
-//
 package main.program;
 
 import java.util.ArrayDeque;
